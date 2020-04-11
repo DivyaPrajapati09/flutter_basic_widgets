@@ -1,16 +1,9 @@
-# flutter_basic_widgets
+Welcome to the flutter_basic_widgets wiki!
 
-A new Flutter project.
+This repository will contain the code of all the flutter tutorials I post on AndroWorldBlog.
 
-## Getting Started
+I will link the post with the branch name so you can find it easy to go through the entire code.
 
-This project is a starting point for a Flutter application.
+Do let me know if you have any suggestions/questions.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Happy Coding!!!
